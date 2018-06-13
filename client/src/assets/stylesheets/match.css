@@ -1,0 +1,868 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  /*background: rgb(58,71,80);*/
+  background: url(../images/menubg.png);
+  background-size: cover;
+}
+
+.wwlanc {
+  float: left;
+  color: white;
+}
+.wwlanc > div {
+  padding: 2px;
+  cursor: pointer;
+}
+
+.Match {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.PartTop {
+  position: relative;
+  overflow: hidden;
+}
+
+.PTBG {
+  height: 100%;
+  width: 100%;
+  filter: blur(3px) saturate(0.75) contrast(0.8);
+  position: absolute;
+  background-size: cover !important;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.PTContent {
+  background: rgba(8,15,20,0.7);
+  width: 100%;
+  height: 100%;
+  box-shadow: inset 0 1px 10px rgba(0,0,0,0.6);
+  box-sizing: border-box;
+}
+
+.MatchInfo {
+  width: 100%;
+  height: 150px;
+  position: relative;
+  color: rgb(116,149,190);
+  padding: 20px;
+  display: flex;
+}
+.MIItem {
+  padding: 0 20px 0 20px;
+}
+.MILabel {
+  width: 100%;
+  text-align: center;
+  font-size: 0.7em;
+  margin-bottom: 2px;
+}
+.MIContent {
+  width: 100%;
+}
+.MIOrganiser {
+  width: 150px;
+}
+.MIOrganiser img {
+  width: 100%;
+}
+
+.Teamnames {
+  display: table;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 0 0 3px rgba(0,0,0,0.4);
+  top: -15%;
+  position: absolute;
+}
+.Teamnames::after {
+  content: 'vs';
+  color: rgba(255,255,255,0.8);
+  font-weight: normal;
+  position: absolute;
+  left: 50%;
+}
+
+.TeamnameCT {
+  color: rgb(116,149,190);
+  display: table-cell;
+}
+
+.TeamnameT {
+  color: rgb(195,149,64);
+  display: table-cell;
+}
+
+.Scoreboard {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  display: table;
+  margin-top: 23px;
+}
+
+.Teamscores {
+  width: 10%;
+  min-width: 64px;
+  height: 100%;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.TeamscoreCT {
+  color: rgb(116,149,190);
+  margin-bottom: 10px;
+}
+
+.TeamscoreT {
+  color: rgb(195,149,64);
+  margin-top: 10px;
+}
+
+.Teamscore {
+  font-size: 3em;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.Teamscoreimg img {
+  min-width: 51px;
+  width: 80%;
+}
+
+.Players {
+  width: 90%;
+  padding-left: 20px;
+  position: relative;
+}
+
+.PlayerLabels {
+  display: table;
+  position: absolute;
+  top: -23px;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+.PlayerLabel {
+  display: table-cell;
+  padding: 5px;
+  width: 5%;
+  text-align: right;
+  color: rgba(255,255,255,0.8);
+  font-size: 0.9em;
+}
+.PlayerLabel:first-child {
+  width: 40%;
+  text-align: left;
+}
+.PlayerLabel:nth-last-child(3), .PlayerLabel:nth-last-child(10) {
+  width: 8%;
+}
+
+.PlayersCT {
+  color: rgb(116,149,190);
+  display: table;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.PlayersT {
+  color: rgb(195,149,64);
+  display: table;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.PlayersCT .PActive {
+  background-color: rgba(93,120,153,0.4) !important;
+}
+.PlayersCT .Player:not(.PActive):hover {
+  background-color: rgba(93,120,153,0.1) !important;
+}
+.PlayersT .PActive {
+  background-color: rgba(151,115,50,0.2) !important;
+}
+.PlayersT .Player:not(.PActive):hover {
+  background-color: rgba(151,115,50,0.05) !important;
+}
+
+.Player {
+  display: table-row;
+  width: 100%;
+  cursor: pointer;
+}
+
+.Player:nth-child(odd) {
+  background: rgba(8,15,20,0.4);
+}
+
+.Player > div {
+  display: table-cell;
+  border-right: 1px solid rgba(100,100,100,0.2);
+  border-bottom: 1px solid rgba(100,100,100,0.2);
+  border-collapse: collapse;
+  padding: 5px;
+  width: 5%;
+}
+
+.Player:last-child > div{
+  border-bottom: none;
+}
+.Player > div:last-child {
+  border-right: none;
+}
+
+.PlayerName {
+  width: 30% !important;
+}
+.PlayerKills, .PlayerAssists, .PlayerDeaths {
+  width: 5%;
+  text-align: right;
+}
+.PlayerADR, .PlayerFED {
+  width: 8% !important;
+  text-align: right;
+}
+.PlayerSteam {
+  height: 100%;
+  padding: 5px;
+  padding-right: 10px;
+  color: white;
+  font-weight: bold;
+}
+.PlayerSteam img {
+  width: 15px;
+}
+
+.RoundTimeline {
+  display: table;
+  color: white;
+  margin-left: 10px;
+}
+.RTRounds, .RTRound {
+  display: table-cell;
+  position: relative;
+  user-select: none;
+}
+.RTRound {
+  background: linear-gradient(to bottom, transparent, rgba(8,15,20,0.4), transparent);
+}
+.RTRound:hover {
+  background: linear-gradient(to bottom, transparent, rgba(93,120,153,0.1), transparent);
+}
+.RTRound:first-child::after {
+  content: '';
+  width: 1px;
+  background: rgba(250,250,250,0.2);
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.RTRound:nth-child(15)::after, .RTRound:nth-child(30)::after, .RTRound:nth-child(n+30):nth-child(6n)::after, .RTRound:last-child::after {
+  content: '';
+  width: 1px;
+  background: rgba(250,250,250,0.2);
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.RTRoundIcon {
+  width: 20px;
+}
+.RTRoundIcon .RoundEndIcon {
+  margin-left: auto;
+  margin-right: auto;
+  height: 80%;
+  width: 80%;
+}
+.RTRoundDivider {
+  pointer-events: none;
+}
+
+.RoundSlider {
+  margin-top: 40px;
+  min-height: 100px;
+  width: 100%;
+  padding: 40px;
+  box-sizing: border-box;
+  position: relative;
+  background: linear-gradient(to bottom, transparent, rgba(8,15,20,0.4), transparent);
+}
+
+.RSRounds {
+  width: calc(100% - 40px);
+  display: table;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  pointer-events: none;
+}
+
+.RSRound {
+  display: table-cell;
+  position: relative;
+}
+.RSRound:nth-child(16)::after {
+  content: '';
+  width: 1px;
+  background: rgba(250,250,250,0.2);
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -15%;
+}
+.RSRound:nth-child(31)::after {
+  content: '';
+  width: 1px;
+  background: rgba(250,250,250,0.2);
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: -15%;
+}
+
+.RSRoundIcon {
+  max-width: 16px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  opacity: 0.1;
+  transition: opacity 0.1s ease-out;
+  user-select: none;
+}
+.RSActive {
+  opacity: 1;
+}
+.RSRoundIcon .RoundEndIcon {
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+}
+.RSTopHalf {
+  position: absolute;
+  top: 0;
+}
+.RSBotHalf {
+  position: absolute;
+  bottom: 0;
+}
+
+.input-range__slider::before {
+  width: 200%;
+  height: 200%;
+  top: -50%;
+  position: absolute;
+  left: -50%;
+  content: ' ';
+  z-index: 2;
+}
+.input-range__track--background::before {
+  position: absolute;
+  content: ' ';
+  width: 100%;
+  height: 1.5em;
+  top: -1.5em;
+  left: 0;
+}
+.input-range__track--background::after {
+  position: absolute;
+  content: ' ';
+  width: 100%;
+  height: 1.5em;
+  top: 100%;
+  left: 0;
+}
+.input-range__slider {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: rgb(116,149,190);
+  border: 1px solid rgb(116,149,190);
+  border-radius: 100%;
+  cursor: pointer;
+  display: block;
+  height: 1rem;
+  margin-left: -0.5rem;
+  margin-top: -0.65rem;
+  outline: none;
+  position: absolute;
+  top: 50%;
+  transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
+  width: 1rem;
+}
+.input-range__slider:active {
+  transform: scale(1.3);
+}
+.input-range__slider:focus {
+  box-shadow: 0 0 0 5px rgba(63, 81, 181, 0.2);
+}
+.input-range--disabled .input-range__slider {
+  background: #cccccc;
+  border: 1px solid #cccccc;
+  box-shadow: none;
+  transform: none;
+}
+.input-range__slider-container {
+  transition: left 0.3s ease-out;
+  z-index: 1;
+}
+.input-range__label {
+  color: #aaaaaa;
+  font-family: "Helvetica Neue", san-serif;
+  font-size: 0.8rem;
+  transform: translateZ(0);
+  white-space: nowrap;
+  user-select: none;
+}
+.input-range__label--min,
+.input-range__label--max {
+  bottom: -2.2rem;
+  display: none;
+  position: absolute;
+}
+.input-range__label--min {
+  left: 0;
+}
+.input-range__label--max {
+  right: 0;
+}
+.input-range__label--value {
+  color: rgba(255,255,255,0.6);
+  top: -3rem;
+  z-index: 1;
+  pointer-events: none;
+  position: absolute;
+}
+.input-range__label-container {
+  left: -50%;
+  position: relative; }
+.input-range__label--max .input-range__label-container {
+  left: 50%;
+}
+.input-range__track {
+  background: rgba(255,255,255,0.1);
+  border-radius: 0.3rem;
+  cursor: pointer;
+  display: block;
+  height: 0.3rem;
+  position: relative;
+  transition: left 0.3s ease-out, width 0.3s ease-out; }
+.input-range--disabled .input-range__track {
+  background: #eeeeee;
+}
+.input-range__track--background {
+  left: 0;
+  margin-top: -0.15rem;
+  position: absolute;
+  right: 0;
+  top: 50%;
+}
+.input-range__track--active {
+  background: rgb(116,149,190);
+}
+.input-range {
+  height: 1rem;
+  position: relative;
+  width: 100%;
+}
+
+.PartBot {
+  background: rgba(8,15,20,0.75);
+  padding: 10px;
+  padding-bottom: 60px;
+  box-shadow: inset 0 2px 10px rgba(0,0,0,0.4);
+}
+
+.PlayerInfo {
+  display: flex;
+  color: rgb(116,149,190);
+}
+.PlayerInfo > div {
+  padding: 5px;
+}
+
+.RoundsWrapper {
+  display: table;
+  width: 100%;
+}
+
+.PlayerRounds {
+  margin: 20px auto 20px auto;
+  width: fit-content;
+}
+
+.RoundsTitle {
+  color: rgb(116,149,190);
+  text-align: center;
+  font-size: 1.1em;
+  margin-bottom: 15px;
+}
+
+.Rounds {
+  max-width: 750px;
+  position: relative;
+}
+
+/* Individual round styling and children */
+.Round {
+  display: inline-block;
+  width: 25px;
+  text-align: center;
+  position: relative;
+  margin-top: 15px;
+}
+
+.Round::before {
+  content: '';
+  width: 1px;
+  height: 5px;
+  background: rgba(120,120,120,0.2);
+  position: absolute;
+  right: 50%;
+  bottom: 0;
+}
+.Round:nth-child(1)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.8);
+  position: absolute;
+  left: 0;
+  bottom: -5%;
+}
+.Round:nth-child(1)::after {
+  content: '1st Round';
+  color: rgba(120,120,120,0.8);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: -50%;
+  top: 106%;
+}
+.Round:nth-child(5)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.5);
+  position: absolute;
+  right: 50%;
+  bottom: -5%;
+}
+.Round:nth-child(5)::after {
+  content: '5';
+  color: rgba(120,120,120,0.5);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 106%;
+}
+.Round:nth-child(10)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.5);
+  position: absolute;
+  right: 50%;
+  bottom: -5%;
+}
+.Round:nth-child(10)::after {
+  content: '10';
+  color: rgba(120,120,120,0.5);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 106%;
+}
+.Round:nth-child(15)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.8);
+  position: absolute;
+  right: 0;
+  bottom: -5%;
+}
+.Round:nth-child(15)::after {
+  content: 'Halftime';
+  color: rgba(120,120,120,0.8);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: 38%;
+  top: 106%;
+}
+.Round:nth-child(16)::before {
+  content: '';
+  width: 0;
+  height: 0;
+}
+.Round:nth-child(20)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.5);
+  position: absolute;
+  right: 50%;
+  bottom: -5%;
+}
+.Round:nth-child(20)::after {
+  content: '20';
+  color: rgba(120,120,120,0.5);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 106%;
+}
+.Round:nth-child(25)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.5);
+  position: absolute;
+  right: 50%;
+  bottom: -5%;
+}
+.Round:nth-child(25)::after {
+  content: '25';
+  color: rgba(120,120,120,0.5);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 106%;
+}
+.Round:nth-child(6n+33)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.5);
+  position: absolute;
+  right: 0;
+  bottom: -5%;
+}
+.Round:nth-child(6n+33)::after {
+  content: 'Halftime';
+  color: rgba(120,120,120,0.5);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: 38%;
+  top: 106%;
+}
+.Round:nth-child(30)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.8);
+  position: absolute;
+  right: 0;
+  bottom: -5%;
+}
+.Round:nth-child(30)::after {
+  content: '30';
+  color: rgba(120,120,120,0.8);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  right: -20%;
+  top: 106%;
+}
+.Round:nth-child(31)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.8);
+  position: absolute;
+  left: 0;
+  bottom: -5%;
+}
+.Round:nth-child(31)::after {
+  content: 'OT1';
+  color: rgba(120,120,120,0.8);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: -25%;
+  top: 106%;
+}
+.Round:nth-child(37)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.8);
+  position: absolute;
+  left: 0;
+  bottom: -5%;
+}
+.Round:nth-child(37)::after {
+  content: 'OT2';
+  color: rgba(120,120,120,0.8);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: -25%;
+  top: 106%;
+}
+.Round:nth-child(43)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.8);
+  position: absolute;
+  left: 0;
+  bottom: -5%;
+}
+.Round:nth-child(43)::after {
+  content: 'OT3';
+  color: rgba(120,120,120,0.8);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: -25%;
+  top: 106%;
+}
+.Round:nth-child(49)::before {
+  content: '';
+  width: 1px;
+  height: 25%;
+  background: rgba(120,120,120,0.8);
+  position: absolute;
+  left: 0;
+  bottom: -5%;
+}
+.Round:nth-child(49)::after {
+  content: 'OT4';
+  color: rgba(120,120,120,0.8);
+  font-size: 6pt;
+  font-weight: bold;
+  white-space: nowrap;
+  position: absolute;
+  left: -25%;
+  top: 106%;
+}
+
+
+
+.ColourCT .RoundTop {
+  background: linear-gradient(to bottom, transparent, rgb(52,70,90));
+}
+
+.ColourCT .RoundMid {
+  background: linear-gradient(to bottom, transparent, rgb(89,111,132), rgb(89,111,132), transparent);
+}
+
+.ColourT .RoundTop {
+  background: linear-gradient(to bottom, transparent, rgb(82,69,53));
+}
+
+.ColourT .RoundMid {
+  background: linear-gradient(to bottom, transparent, rgb(132,116,83), rgb(132,116,83), transparent);
+}
+
+.ColourLost .RoundTop {
+  background: none;
+}
+
+.ColourLost .RoundBot {
+  background: linear-gradient(to bottom, rgb(83,19,20), transparent);
+}
+
+.RoundTop {
+  width: calc(100% - 1px);
+  height: 100px;
+  display: table;
+  position: relative;
+}
+
+.RoundKill {
+  width: 100%;
+  position: absolute;
+}
+.RoundKill:nth-child(1) {
+  bottom: 0;
+}
+.RoundKill:nth-child(2) {
+  bottom: 20%;
+}
+.RoundKill:nth-child(3) {
+  bottom: 40%;
+}
+.RoundKill:nth-child(4) {
+  bottom: 60%;
+}
+.RoundKill:nth-child(5) {
+  bottom: 80%;
+}
+
+.RoundKill img {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.RoundMid {
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(to bottom, transparent, rgb(50,51,53), rgb(50,51,53), transparent);
+  margin-top: -1px;
+  margin-bottom: -1px;
+  position: relative;
+  z-index: 2;
+}
+
+.RoundBot {
+  width: calc(100% - 1px);
+  height: 25px;
+  display: table-row;
+  position: relative;
+}
+
+.RoundBotFiller {
+  width: 24px;
+}
+
+.RoundDeath {
+  width: 100%;
+  margin-top: 20%;
+  position: relative;
+  z-index: 1;
+}
+
+.RoundDeath img {
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+}

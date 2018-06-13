@@ -1,0 +1,1309 @@
+{
+  "1": {
+    "1": [
+      "auto0-20180212-182220-1001862310-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-184017-1297381686-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-184710-42029873-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-185042-1780752844-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180212-185622-1894809497-de_train-NUEL_CS_GO.dem",
+      "auto0-20180212-190608-2081562793-de_train-NUEL_CS_GO.dem",
+      "auto0-20180212-192833-2088049142-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-192950-1456102836-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-193210-1207578629-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-201534-1624433032-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "2": [
+      "auto0-20180212-190612-1611639221-de_train-NUEL_CS_GO.dem",
+      "auto0-20180212-191820-1993609891-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-201954-1652694452-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "3": [
+      "auto0-20180212-202612-807902512-de_cache-NUEL_CS_GO.dem"
+    ],
+    "4": [
+      "auto0-20180212-191213-376416221-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-201431-1744678733-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-201749-136409058-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-201846-875454843-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-202931-1714363062-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "5": [
+      "auto0-20180212-194246-1839307631-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-204451-1237766530-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "6": [
+      "auto0-20180212-192246-1166761686-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-200604-1723416017-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-201854-1717193586-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-205424-1802034458-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-205905-1983874326-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "7": [
+      "auto0-20180212-191414-366907456-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-200038-520288340-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "8": [
+      "auto0-20180212-203103-58256574-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-205846-796085739-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-205920-1341369148-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "9": [
+      "auto0-20180212-191910-2147041913-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-202200-881879947-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-203617-1225262778-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "10": [
+      "auto0-20180212-203110-286842547-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "11": [
+      "auto0-20180212-185505-2115266613-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-191108-2068920211-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-201445-1879801377-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-202042-72862808-de_cache-NUEL_CS_GO.dem"
+    ],
+    "12": [
+      "auto0-20180212-191808-1223400348-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-201151-771721377-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-201506-1682366027-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "13": [
+      "auto0-20180212-192221-1616435944-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-202753-1074097448-de_cache-NUEL_CS_GO.dem"
+    ],
+    "14": [
+      "auto0-20180212-201017-269453175-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "15": [
+      "auto0-20180212-191346-1281900763-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-200525-113502199-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "16": [
+      "auto0-20180212-191608-1792846005-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202122-1916384075-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202823-1630173040-de_train-NUEL_CS_GO.dem"
+    ],
+    "17": [
+      "auto0-20180212-200805-1076893554-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "19": [
+      "auto0-20180212-193317-443232434-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202147-656285048-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-203126-1356171412-de_cache-NUEL_CS_GO.dem"
+    ],
+    "20": [
+      "auto0-20180212-191829-802589669-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-195834-1828895284-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "21": [
+      "auto0-20180212-191402-1426900577-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-203838-1301346827-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-204225-1776773195-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "22": [
+      "auto0-20180212-191859-445666743-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-200108-1318163356-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-201224-952107626-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "23": [
+      "auto0-20180212-191944-2134732679-de_cbble-NUEL_CS_GO.dem",
+      "auto0-20180212-200201-1610734283-de_cbble-NUEL_CS_GO.dem",
+      "auto0-20180212-201015-664336530-de_cache-NUEL_CS_GO.dem"
+    ],
+    "24": [
+      "auto0-20180212-193333-535849791-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-201640-767076988-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "25": [
+      "auto0-20180212-191707-1323030441-de_cache-NUEL_CS_GO.dem"
+    ],
+    "26": [
+      "auto0-20180212-192104-2001766130-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-201923-18598239-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "27": [
+      "auto0-20180212-191623-1676422592-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-192332-248765914-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202707-818657001-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "28": [
+      "auto0-20180212-194345-1871585092-de_cache-NUEL_CS_GO.dem"
+    ],
+    "29": [
+      "auto0-20180212-191650-1157954923-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-202642-974542239-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "30": [
+      "auto0-20180212-193008-1023354998-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-200609-1715525806-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-201303-837594800-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "31": [
+      "auto0-20180212-191442-2106093942-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-200615-242490061-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-201948-800081703-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202700-1379113654-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "32": [
+      "auto0-20180212-191738-864491338-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "34": [
+      "auto0-20180212-192538-1899903752-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-200723-1456781367-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "35": [
+      "auto0-20180212-192224-1875121971-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-200128-864107541-de_cache-NUEL_CS_GO.dem"
+    ],
+    "36": [
+      "auto0-20180212-192855-78153378-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-200335-1472771709-de_nuke-NUEL_CS_GO.dem"
+    ],
+    "37": [
+      "auto0-20180212-190451-1367758158-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-191810-661965483-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "39": [
+      "auto0-20180212-191437-380259148-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-204829-948754438-de_cache-NUEL_CS_GO.dem"
+    ],
+    "41": [
+      "auto0-20180212-191707-64852573-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202331-1579908592-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "42": [
+      "auto0-20180212-195721-371387240-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202933-1813964011-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-203542-828716030-de_cache-NUEL_CS_GO.dem"
+    ],
+    "43": [
+      "auto0-20180212-193716-1301535269-de_cache-NUEL_CS_GO.dem"
+    ],
+    "44": [
+      "auto0-20180212-191528-473681281-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-195740-846060909-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "45": [
+      "auto0-20180212-200436-1051980691-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "46": [
+      "auto0-20180212-190930-959647637-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-192355-1053757286-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-202940-1536942819-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "47": [
+      "auto0-20180212-192107-1985126858-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-202458-23608962-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-203722-1900602329-de_cache-NUEL_CS_GO.dem"
+    ],
+    "48": [
+      "auto0-20180212-192246-265011267-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202500-1923964879-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "50": [
+      "auto0-20180212-191921-1681861343-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-195953-1440746360-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180212-200707-1327944207-de_cache-NUEL_CS_GO.dem"
+    ],
+    "51": [
+      "auto0-20180212-193509-339629594-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-202855-1629413691-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "52": [
+      "auto0-20180212-192026-510764673-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-200252-1717739573-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "53": [
+      "auto0-20180212-192023-992629662-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-203051-1077342450-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "54": [
+      "auto0-20180212-191711-1911900787-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-203403-854012821-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "55": [
+      "auto0-20180212-203319-164456333-de_cache-NUEL_CS_GO.dem"
+    ],
+    "56": [
+      "auto0-20180212-192522-129109367-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-202650-371074732-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "57": [
+      "auto0-20180212-192348-1204291066-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-193815-537082457-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-203145-1047635779-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "58": [
+      "auto0-20180212-191721-2134205765-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-204034-1162218039-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-204432-1111554719-de_cache-NUEL_CS_GO.dem"
+    ],
+    "59": [
+      "auto0-20180212-192019-1982251815-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-204202-911572361-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180212-204933-1810169037-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "61": [
+      "auto0-20180212-205819-10871798-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "62": [
+      "auto0-20180212-203024-271062473-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "63": [
+      "auto0-20180212-193603-361918046-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "65": [
+      "auto0-20180212-194342-716722964-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-204131-1446066376-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-204421-1923358086-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "66": [
+      "auto0-20180212-195104-87793241-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-195631-1110643921-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180212-195843-111437992-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-205124-590945542-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180212-205917-750069106-de_mirage-NUEL_CS_GO.dem"
+    ]
+  },
+  "2": {
+    "1": [
+      "auto0-20180219-192658-699143361-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202043-968710559-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202847-2073017921-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-203133-420409778-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-203219-1545986235-de_cache-NUEL_CS_GO.dem"
+    ],
+    "7": [
+      "auto0-20180219-192058-658329721-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-202037-1921940309-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-202329-2123474855-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "8": [
+      "auto0-20180219-190907-265630881-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-204741-1418376898-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "9": [
+      "auto0-20180219-191241-50634231-de_train-NUEL_CS_GO.dem",
+      "auto0-20180219-204415-626889717-de_train-NUEL_CS_GO.dem",
+      "auto0-20180219-204913-818365842-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "10": [
+      "auto0-20180219-191611-1703379106-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-201532-1115419194-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202050-1286427382-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "11": [
+      "auto0-20180219-191422-1355659364-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-202009-598729981-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "12": [
+      "auto0-20180219-191800-1602191348-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202956-1687865436-de_cache-NUEL_CS_GO.dem"
+    ],
+    "13": [
+      "auto0-20180219-192102-970460776-de_cache-NUEL_CS_GO.dem"
+    ],
+    "14": [
+      "auto0-20180219-191113-822443147-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "15": [
+      "auto0-20180219-191127-850324011-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-201715-2009322415-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-202016-772048561-de_cache-NUEL_CS_GO.dem"
+    ],
+    "16": [
+      "auto0-20180219-192731-1939099452-de_cache-NUEL_CS_GO.dem"
+    ],
+    "17": [
+      "auto0-20180219-191735-577636439-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-205605-804660630-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-205641-176986665-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-210226-1326816395-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-212411-831934980-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "18": [
+      "auto0-20180219-191600-1360682085-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202600-716857011-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-203138-1103058412-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "19": [
+      "auto0-20180219-192748-1122679058-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "20": [
+      "auto0-20180219-191935-641514248-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180219-200155-975223942-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180219-201042-135407738-de_cache-NUEL_CS_GO.dem"
+    ],
+    "21": [
+      "auto0-20180219-193124-875278669-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-200339-1080004356-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-204138-1964879742-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-210056-487864330-de_train-NUEL_CS_GO.dem"
+    ],
+    "22": [
+      "auto0-20180219-191041-1664803692-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-202841-2145493436-de_cache-NUEL_CS_GO.dem"
+    ],
+    "23": [
+      "auto0-20180219-203017-288063195-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "24": [
+      "auto0-20180219-191458-1074092720-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-200748-652892634-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-201823-246665389-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-201842-990845293-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-202136-1267002631-de_cache-NUEL_CS_GO.dem"
+    ],
+    "25": [
+      "auto0-20180219-191443-1848671775-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180219-204425-101231525-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180219-205141-1640760686-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "26": [
+      "auto0-20180219-191733-960003151-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-200738-107482893-de_cache-NUEL_CS_GO.dem"
+    ],
+    "27": [
+      "auto0-20180219-191544-1772543793-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180219-200158-1958918307-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "28": [
+      "auto0-20180219-191406-801203403-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-201008-1972524683-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202011-2036667750-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "29": [
+      "auto0-20180219-191901-844085203-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-201418-1119659054-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202209-1381210176-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "30": [
+      "auto0-20180219-192149-541034642-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-201817-867349459-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "31": [
+      "auto0-20180219-191544-78881493-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-201557-819687555-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "32": [
+      "auto0-20180219-192105-407002518-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-200701-1626583433-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-201529-1271389127-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "33": [
+      "auto0-20180219-191811-1007859521-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-202640-1393467911-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-203446-1403031765-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "34": [
+      "auto0-20180219-192406-1492853110-de_cbble-NUEL_CS_GO.dem",
+      "auto0-20180219-202038-2073546543-de_cbble-NUEL_CS_GO.dem",
+      "auto0-20180219-202839-2060121857-de_cache-NUEL_CS_GO.dem"
+    ],
+    "35": [
+      "auto0-20180219-190415-123357856-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180219-193336-1013684823-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-203837-1447793033-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-204757-1598915443-de_cache-NUEL_CS_GO.dem"
+    ],
+    "36": [
+      "auto0-20180219-192359-1117111315-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202328-642143869-de_cache-NUEL_CS_GO.dem"
+    ],
+    "37": [
+      "auto0-20180219-192455-31585257-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-200958-1566805165-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-210152-50305508-de_cache-NUEL_CS_GO.dem"
+    ],
+    "38": [
+      "auto0-20180219-192348-2098537919-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-192432-1341913221-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-203017-306486582-de_cache-NUEL_CS_GO.dem"
+    ],
+    "39": [
+      "auto0-20180219-191544-652068657-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-195304-390522382-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-200642-238131831-de_cache-NUEL_CS_GO.dem"
+    ],
+    "40": [
+      "auto0-20180219-191751-400941503-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-200926-2114592806-de_cache-NUEL_CS_GO.dem"
+    ],
+    "41": [
+      "auto0-20180219-192607-1584940331-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-202705-879095802-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "43": [
+      "auto0-20180219-192043-1854853013-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-200856-565967022-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "44": [
+      "auto0-20180219-191828-271520827-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "45": [
+      "auto0-20180219-191818-1118891476-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-195900-1268803796-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-201417-1335478177-de_cache-NUEL_CS_GO.dem"
+    ],
+    "46": [
+      "auto0-20180219-192322-953051884-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-201047-182877768-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "47": [
+      "auto0-20180219-191123-697518376-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-195201-1358288551-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-203454-507357340-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-203946-1939017988-de_cache-NUEL_CS_GO.dem"
+    ],
+    "48": [
+      "auto0-20180219-192340-1172349512-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-200919-845318801-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-201424-656667457-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "49": [
+      "auto0-20180219-191707-919213817-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-195950-932193304-de_cache-NUEL_CS_GO.dem"
+    ],
+    "50": [
+      "auto0-20180219-192334-1896057064-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-202929-1205013203-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "52": [
+      "auto0-20180219-192151-988276949-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "53": [
+      "auto0-20180219-194612-524458175-de_cache-NUEL_CS_GO.dem"
+    ],
+    "54": [
+      "auto0-20180219-200411-768028719-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-210711-1479090271-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "55": [
+      "auto0-20180219-202630-721486034-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "56": [
+      "auto0-20180219-192954-1136449096-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202027-1900146894-de_cache-NUEL_CS_GO.dem"
+    ],
+    "57": [
+      "auto0-20180219-192508-345111888-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-203841-1234955156-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-204642-1453707621-de_cache-NUEL_CS_GO.dem"
+    ],
+    "58": [
+      "auto0-20180219-201730-2104576681-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "59": [
+      "auto0-20180219-192012-1830665094-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-201546-1793272202-de_cache-NUEL_CS_GO.dem"
+    ],
+    "61": [
+      "auto0-20180219-192801-1607506313-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180219-202143-1566814185-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "62": [
+      "auto0-20180219-194855-2040819258-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202119-972331540-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-202258-1940307748-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-203111-494385652-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180219-203643-497879319-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "63": [
+      "auto0-20180219-195848-2040480088-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "64": [
+      "auto0-20180219-204142-1593642226-de_cache-NUEL_CS_GO.dem"
+    ],
+    "backup-2" : [
+      "auto0-20180219-191839-1409234841-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180219-203237-1158117472-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "backup-3" : [
+      "auto0-20180219-192921-448699406-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180219-203405-90987687-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "backup-4" : [
+      "auto0-20180219-202929-44382684-de_overpass-NUEL_CS_GO.dem"
+    ]
+  },
+  "3": {
+    "2": [
+      "auto0-20180226-191422-790161811-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180226-202040-1032869097-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "3": [
+      "auto0-20180226-191323-381602709-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180226-201720-1566118266-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "4": [
+      "auto0-20180226-193423-666497290-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-201545-717937915-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-202931-540266638-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "5": [
+      "auto0-20180226-191532-397512924-de_train-NUEL_CS_GO.dem",
+      "auto0-20180226-191800-222522549-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-201436-1603006757-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-202215-609081974-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "6": [
+      "auto0-20180226-200403-1635526356-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-200404-54691941-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "7": [
+      "auto0-20180226-191653-1587651005-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-201952-1907850052-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-203429-178549590-de_cache-NUEL_CS_GO.dem"
+    ],
+    "8": [
+      "auto0-20180226-191452-2067165859-de_cache-NUEL_CS_GO.dem"
+    ],
+    "9": [
+      "auto0-20180226-202644-2138202330-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "10": [
+      "auto0-20180226-191222-614895294-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-201857-1646922714-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-203923-1115953053-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "11": [
+      "auto0-20180226-192735-1021161992-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-192832-1513573022-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180226-202747-441925892-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180226-203432-1857838034-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "12": [
+      "auto0-20180226-190142-1003830924-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-195917-780165550-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-201126-379354019-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "13": [
+      "auto0-20180226-193145-1761399006-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180226-203254-2052237601-de_cache-NUEL_CS_GO.dem"
+    ],
+    "14": [
+      "auto0-20180226-192633-34709343-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-201327-885040828-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "15": [
+      "auto0-20180226-191924-1198170567-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-202707-230796075-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "16": [
+      "auto0-20180226-192243-316643699-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-202158-744002721-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "17": [
+      "auto0-20180226-192541-1787250874-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "18": [
+      "auto0-20180226-192745-1383137605-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-204405-110213680-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "19": [
+      "auto0-20180226-192243-1135933531-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-201727-2059034831-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-204013-882629074-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-204830-1246305452-de_cache-NUEL_CS_GO.dem"
+    ],
+    "20": [
+      "auto0-20180226-192013-1277353678-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180226-201553-203142471-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180226-202159-1199581480-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "21": [
+      "auto0-20180226-192545-37810412-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-205905-1896391715-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "22": [
+      "auto0-20180226-191734-70395036-de_cbble-NUEL_CS_GO.dem",
+      "auto0-20180226-195827-1368382015-de_cbble-NUEL_CS_GO.dem",
+      "auto0-20180226-200601-83364776-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "23": [
+      "auto0-20180226-191538-1263986045-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-201119-2130205937-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-202029-1629580101-de_cache-NUEL_CS_GO.dem"
+    ],
+    "24": [
+      "auto0-20180226-191716-345953637-de_cbble-NUEL_CS_GO.dem",
+      "auto0-20180226-202051-2037353550-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "25": [
+      "auto0-20180226-192019-1431124430-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "27": [
+      "auto0-20180226-192721-161944835-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-200907-188573441-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-203824-1310415515-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-213403-849161575-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "28": [
+      "auto0-20180226-191220-1007913848-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-191429-1969741320-de_train-NUEL_CS_GO.dem",
+      "auto0-20180226-191431-1712429135-de_train-NUEL_CS_GO.dem",
+      "auto0-20180226-202915-2105727746-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "29": [
+      "auto0-20180226-190259-1442784229-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-201856-1148106984-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "30": [
+      "auto0-20180226-192010-1888412065-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "31": [
+      "auto0-20180226-192711-395333733-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-203320-1804329203-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "32": [
+      "auto0-20180226-191238-251241576-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-191622-592167035-de_cache-NUEL_CS_GO.dem"
+    ],
+    "33": [
+      "auto0-20180226-191201-8545246-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-204836-796310921-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-205328-988253868-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "34": [
+      "auto0-20180226-192916-260794423-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "35": [
+      "auto0-20180226-190400-953149251-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-191916-427667221-de_cache-NUEL_CS_GO.dem"
+    ],
+    "36": [
+      "auto0-20180226-192335-1117115923-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-201007-2028053950-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-201416-1327017651-de_cache-NUEL_CS_GO.dem"
+    ],
+    "37": [
+      "auto0-20180226-201604-1145980048-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "38": [
+      "auto0-20180226-191617-1367027602-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-201537-1055821109-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-205702-190527301-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-211038-1636457830-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "39": [
+      "auto0-20180226-191528-470367483-de_cache-NUEL_CS_GO.dem"
+    ],
+    "40": [
+      "auto0-20180226-191530-1592537895-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-200935-1969529217-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-201450-1660485816-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "41": [
+      "auto0-20180226-191319-2021397914-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-195454-2142147332-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-200411-219019380-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "42": [
+      "auto0-20180226-193120-875271512-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-201225-1685798825-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-202210-1797655068-de_cache-NUEL_CS_GO.dem"
+    ],
+    "43": [
+      "auto0-20180226-203139-726504068-de_cache-NUEL_CS_GO.dem"
+    ],
+    "44": [
+      "auto0-20180226-202343-1342728854-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "45": [
+      "auto0-20180226-192518-1257696201-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "46": [
+      "auto0-20180226-191608-2128745665-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-200923-1011340288-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "47": [
+      "auto0-20180226-191947-551273235-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-202808-1703448700-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180226-203927-1692640777-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "48": [
+      "auto0-20180226-193250-78675102-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-201810-259066779-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "49": [
+      "auto0-20180226-192256-1282962521-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "52": [
+      "auto0-20180226-192539-298947111-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "53": [
+      "auto0-20180226-192136-92961584-de_train-NUEL_CS_GO.dem",
+      "auto0-20180226-192343-418091715-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-201414-1838999853-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180226-202246-966719879-de_cache-NUEL_CS_GO.dem"
+    ],
+    "54": [
+      "auto0-20180226-193222-2025569224-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-200407-684095278-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180226-200441-570273709-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "55": [
+      "auto0-20180226-193341-1064399256-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "56": [
+      "auto0-20180226-194502-650227424-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "58": [
+      "auto0-20180226-202109-737025552-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "59": [
+      "auto0-20180226-203547-181513571-de_cache-NUEL_CS_GO.dem"
+    ],
+    "61": [
+      "auto0-20180226-205130-881627433-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "62": [
+      "auto0-20180226-205428-1817972441-de_cache-NUEL_CS_GO.dem"
+    ]
+  },
+  "4": {
+    "1": [
+      "auto0-20180305-193137-1414534931-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-203241-2074191107-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-203741-1539446841-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-210152-2048912617-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-211939-1602079459-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "2": [
+      "auto0-20180305-193601-1690097427-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180305-204307-372989648-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180305-205839-825942290-de_nuke-NUEL_CS_GO.dem"
+    ],
+    "3": [
+      "auto0-20180305-192008-719680355-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180305-201212-1011649310-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180305-202134-2079176871-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "4": [
+      "auto0-20180305-192919-1526537949-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "5": [
+      "auto0-20180305-192503-681381849-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180305-201056-1635699401-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180305-201735-1262138476-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180305-201831-1732834267-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180305-202659-321019781-de_cache-NUEL_CS_GO.dem"
+    ],
+    "6": [
+      "auto0-20180305-191429-2044930324-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-191432-1281446432-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-200908-229460419-de_cache-NUEL_CS_GO.dem"
+    ],
+    "7": [
+      "auto0-20180305-191146-200688252-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180305-203519-1083615155-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180305-204642-1962288670-de_train-NUEL_CS_GO.dem"
+    ],
+    "11": [
+      "auto0-20180305-193648-410268559-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-211221-191581793-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "15": [
+      "auto0-20180305-205646-2011853876-de_cache-NUEL_CS_GO.dem"
+    ],
+    "16": [
+      "auto0-20180305-193649-227245687-de_cbble-NUEL_CS_GO.dem",
+      "auto0-20180305-203128-1782889196-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "17": [
+      "auto0-20180305-191334-1089507869-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-192109-1227219090-de_cache-NUEL_CS_GO.dem"
+    ],
+    "18": [
+      "auto0-20180305-193017-1101643103-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180305-203232-2095504429-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180305-203747-332566244-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180305-204232-542393010-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "19": [
+      "auto0-20180305-192900-1743844677-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180305-193300-1788842002-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "20": [
+      "auto0-20180305-193042-1960756589-de_cache-NUEL_CS_GO.dem"
+    ],
+    "21": [
+      "auto0-20180305-193714-1936764978-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "22": [
+      "auto0-20180305-192604-1396568109-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-194504-1191938857-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "23": [
+      "auto0-20180305-192915-346293545-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "24": [
+      "auto0-20180305-193013-1053894117-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-201821-831125288-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-202325-1187277017-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "25": [
+      "auto0-20180305-194114-1178577560-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "26": [
+      "auto0-20180305-193336-619708806-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-204605-2050503042-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-205333-1834313401-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "27": [
+      "auto0-20180305-192952-330547623-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-211249-436024987-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "28": [
+      "auto0-20180305-194131-685638514-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-204507-586903168-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "29": [
+      "auto0-20180305-193656-638481444-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180305-193752-664095190-de_train-NUEL_CS_GO.dem",
+      "auto0-20180305-202808-579430454-de_train-NUEL_CS_GO.dem",
+      "auto0-20180305-203142-1528917402-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "30": [
+      "auto0-20180305-193727-498712267-de_train-NUEL_CS_GO.dem",
+      "auto0-20180305-203534-1807726543-de_cache-NUEL_CS_GO.dem"
+    ],
+    "31": [
+      "auto0-20180305-193343-83911068-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-205014-1759746746-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-205852-284978446-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "32": [
+      "auto0-20180305-192418-1108786480-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-193122-1543354432-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-201958-200287007-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-202356-1189384140-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "33": [
+      "auto0-20180305-193028-1915218754-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-202005-884002746-de_cache-NUEL_CS_GO.dem"
+    ],
+    "34": [
+      "auto0-20180305-192918-579674287-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-203348-1760133937-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "35": [
+      "auto0-20180305-193339-1185371503-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-203635-1896426621-de_cache-NUEL_CS_GO.dem"
+    ],
+    "36": [
+      "auto0-20180305-192926-1663475569-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-202100-1311345759-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-202620-654118352-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180305-202622-473554819-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "37": [
+      "auto0-20180305-193519-1576065646-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180305-203043-912322224-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "38": [
+      "auto0-20180305-193925-1643425168-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-202716-799045743-de_cache-NUEL_CS_GO.dem"
+    ],
+    "39": [
+      "auto0-20180305-193448-635298764-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180305-202712-298644505-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "40": [
+      "auto0-20180305-193703-1542496776-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "41": [
+      "auto0-20180305-194258-474207718-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "42": [
+      "auto0-20180305-193706-1386793911-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-204018-255389136-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-204610-28623712-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "43": [
+      "auto0-20180305-193350-1411400899-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-202811-1597090454-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "44": [
+      "auto0-20180305-192858-1042297928-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-193151-1118937717-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "45": [
+      "auto0-20180305-193052-9683395-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-202205-785817143-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-203024-1832711874-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "46": [
+      "auto0-20180305-193010-376765740-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-203955-1564167013-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "47": [
+      "auto0-20180305-193212-14132669-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-202218-1166304537-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-202911-65334528-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "48": [
+      "auto0-20180305-193628-1981914434-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-202959-1836685404-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180305-203524-2027198499-de_cache-NUEL_CS_GO.dem"
+    ],
+    "49": [
+      "auto0-20180305-193127-266387839-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180305-201719-1075817872-de_cache-NUEL_CS_GO.dem"
+    ],
+    "50": [
+      "auto0-20180305-204408-220949770-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "51": [
+      "auto0-20180305-203624-1611121665-de_cache-NUEL_CS_GO.dem"
+    ],
+    "52": [
+      "auto0-20180305-203035-1833809298-de_cache-NUEL_CS_GO.dem"
+    ],
+    "53": [
+      "auto0-20180305-203036-76832300-de_train-NUEL_CS_GO.dem"
+    ],
+    "54": [
+      "auto0-20180305-202642-342330418-de_cache-NUEL_CS_GO.dem"
+    ],
+    "55": [
+      "auto0-20180305-201857-1939989487-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "56": [
+      "auto0-20180305-204800-423092790-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "61": [
+      "auto0-20180305-194149-1209755187-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180305-205302-1619142553-de_cache-NUEL_CS_GO.dem"
+    ],
+    "62": [
+      "auto0-20180305-194727-2103448689-de_mirage-NUEL_CS_GO.dem"
+    ]
+  },
+  "5": {
+    "1": [
+      "auto0-20180312-192548-1278995608-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-200454-201663286-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "2": [
+      "auto0-20180312-191715-583331830-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180312-202406-1105067693-de_cache-NUEL_CS_GO.dem"
+    ],
+    "3": [
+      "auto0-20180312-191714-742585672-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-203356-547197095-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "4": [
+      "auto0-20180312-190923-323442918-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180312-202616-1433508948-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "5": [
+      "auto0-20180312-192148-887417438-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "6": [
+      "auto0-20180312-192236-361599100-de_train-NUEL_CS_GO.dem"
+    ],
+    "7": [
+      "auto0-20180312-200629-2120794871-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "11": [
+      "auto0-20180312-193320-578834933-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180312-201350-24179012-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "12": [
+      "auto0-20180312-192756-171200797-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-201933-1467991782-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-202730-657407189-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "13": [
+      "auto0-20180312-193406-542392750-de_cache-NUEL_CS_GO.dem"
+    ],
+    "14": [
+      "auto0-20180312-192613-2085218636-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-202008-803904598-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "15": [
+      "auto0-20180312-193917-1496366891-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "16": [
+      "auto0-20180312-192515-299196524-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "17": [
+      "auto0-20180312-192718-1867824827-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-201318-1976805043-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-202637-1849298539-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "18": [
+      "auto0-20180312-192907-1815719262-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-203153-1429531965-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-203446-465222200-de_train-NUEL_CS_GO.dem"
+    ],
+    "19": [
+      "auto0-20180312-192112-50970515-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-192705-1395662777-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180312-201333-97999365-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "20": [
+      "auto0-20180312-192515-665133813-de_train-NUEL_CS_GO.dem"
+    ],
+    "21": [
+      "auto0-20180312-193619-1761440854-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-202157-134389294-de_nuke-NUEL_CS_GO.dem"
+    ],
+    "22": [
+      "auto0-20180312-192607-1229946710-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "23": [
+      "auto0-20180312-193003-694400471-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180312-203718-1693438024-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180312-205008-1754872489-de_cache-NUEL_CS_GO.dem"
+    ],
+    "24": [
+      "auto0-20180312-192606-90313383-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "25": [
+      "auto0-20180312-192603-45874381-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-203439-2067733616-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "26": [
+      "auto0-20180312-192556-875633998-de_cache-NUEL_CS_GO.dem"
+    ],
+    "27": [
+      "auto0-20180312-193228-1847606356-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180312-203528-1949720468-de_cache-NUEL_CS_GO.dem"
+    ],
+    "28": [
+      "auto0-20180312-193410-219223215-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180312-203434-943525448-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "29": [
+      "auto0-20180312-193241-1200761093-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "30": [
+      "auto0-20180312-192447-1616827023-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-202553-70277714-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-203131-437145809-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "31": [
+      "auto0-20180312-193340-843891801-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "32": [
+      "auto0-20180312-192646-555289147-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-202035-2043089970-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-202516-561490156-de_cache-NUEL_CS_GO.dem"
+    ],
+    "33": [
+      "auto0-20180312-193152-19969983-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-202907-1964055644-de_nuke-NUEL_CS_GO.dem"
+    ],
+    "34": [
+      "auto0-20180312-192858-1273818036-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180312-202922-1033560437-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180312-203446-1222541977-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "35": [
+      "auto0-20180312-193449-1114693001-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-202426-1504043716-de_cache-NUEL_CS_GO.dem"
+    ],
+    "36": [
+      "auto0-20180312-193145-77101803-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-203921-62542545-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "37": [
+      "auto0-20180312-193447-1357634057-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-203357-1087505530-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "38": [
+      "auto0-20180312-192718-293740526-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-202243-226573786-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "39": [
+      "auto0-20180312-202634-1381946699-de_cache-NUEL_CS_GO.dem"
+    ],
+    "40": [
+      "auto0-20180312-193024-1136672584-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-202504-519273802-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-203518-394014095-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "41": [
+      "auto0-20180312-192824-2000067468-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-201704-137809565-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180312-202624-1967611204-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "42": [
+      "auto0-20180312-203222-1075107643-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "44": [
+      "auto0-20180312-192425-67556834-de_cache-NUEL_CS_GO.dem"
+    ],
+    "45": [
+      "auto0-20180312-194407-1039389617-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180312-203310-218856675-de_cache-NUEL_CS_GO.dem"
+    ],
+    "46": [
+      "auto0-20180312-203149-1052966378-de_cache-NUEL_CS_GO.dem"
+    ],
+    "47": [
+      "auto0-20180312-204554-1668114237-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "48": [
+      "auto0-20180312-202444-490889977-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "50": [
+      "auto0-20180312-201750-1077144533-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "51": [
+      "auto0-20180312-193618-344613618-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180312-204032-1800896401-de_cache-NUEL_CS_GO.dem"
+    ],
+    "52": [
+      "auto0-20180312-202721-2059124367-de_nuke-NUEL_CS_GO.dem"
+    ],
+    "59": [
+      "auto0-20180312-202513-177225296-de_cache-NUEL_CS_GO.dem"
+    ]
+  },
+  "6": {
+    "1": [
+      "auto0-20180319-192547-385680110-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-205235-282625616-de_cache-NUEL_CS_GO.dem"
+    ],
+    "2": [
+      "auto0-20180319-203805-691253910-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "3": [
+      "auto0-20180319-191948-194837237-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "8": [
+      "auto0-20180319-191830-1509515162-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180319-201523-183666039-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180319-202234-1116690069-de_cache-NUEL_CS_GO.dem"
+    ],
+    "10": [
+      "auto0-20180319-192433-1868790569-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180319-202020-1659924812-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180319-203312-1714724085-de_nuke-NUEL_CS_GO.dem"
+    ],
+    "11": [
+      "auto0-20180319-192332-626987485-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180319-202354-590253829-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "12": [
+      "auto0-20180319-202552-2033072300-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "13": [
+      "auto0-20180319-191141-605760135-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-192741-1404995782-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180319-203355-895920100-de_cbble-NUEL_CS_GO.dem"
+    ],
+    "14": [
+      "auto0-20180319-192740-1615042139-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180319-200839-130431523-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "15": [
+      "auto0-20180319-193747-1876557557-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-201254-133623325-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "16": [
+      "auto0-20180319-192541-2071024050-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180319-201538-1157609564-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "17": [
+      "auto0-20180319-192910-1274275514-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "18": [
+      "auto0-20180319-192418-2051027123-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-203119-1541142333-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-203900-15727132-de_cache-NUEL_CS_GO.dem"
+    ],
+    "19": [
+      "auto0-20180319-192043-1600649331-de_train-NUEL_CS_GO.dem",
+      "auto0-20180319-201425-1220544831-de_train-NUEL_CS_GO.dem"
+    ],
+    "20": [
+      "auto0-20180319-192412-1567760103-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-200708-1227316928-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-201724-1090106034-de_cache-NUEL_CS_GO.dem"
+    ],
+    "21": [
+      "auto0-20180319-192355-27242933-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-203109-364579100-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-204211-1156287319-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "22": [
+      "auto0-20180319-192355-501911552-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180319-201137-1025499265-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180319-202129-434231962-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "23": [
+      "auto0-20180319-192019-1816543576-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180319-201748-1307090242-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "24": [
+      "auto0-20180319-192424-1199400398-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-204225-1488793887-de_cache-NUEL_CS_GO.dem"
+    ],
+    "26": [
+      "auto0-20180319-202559-1797962109-de_cache-NUEL_CS_GO.dem"
+    ],
+    "28": [
+      "auto0-20180319-192858-680072723-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "29": [
+      "auto0-20180319-191904-1418751542-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-201701-1175417682-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-203351-594701594-de_cache-NUEL_CS_GO.dem"
+    ],
+    "30": [
+      "auto0-20180319-191840-1335177846-de_inferno-NUEL_CS_GO.dem",
+      "auto0-20180319-201347-712905500-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180319-201520-807798603-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "31": [
+      "auto0-20180319-192216-2017225278-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180319-204211-961804756-de_cache-NUEL_CS_GO.dem",
+      "auto0-20180319-204909-692972053-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "32": [
+      "auto0-20180319-192325-1489553345-de_overpass-NUEL_CS_GO.dem",
+      "auto0-20180319-202752-1398189871-de_cache-NUEL_CS_GO.dem"
+    ],
+    "34": [
+      "auto0-20180319-192739-772482154-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180319-205850-989450354-de_cache-NUEL_CS_GO.dem"
+    ],
+    "35": [
+      "auto0-20180319-193029-654397525-de_train-NUEL_CS_GO.dem",
+      "auto0-20180319-200853-423114976-de_train-NUEL_CS_GO.dem"
+    ],
+    "36": [
+      "auto0-20180319-202405-545064544-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "37": [
+      "auto0-20180319-202703-1610122801-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "38": [
+      "auto0-20180319-201859-572208332-de_overpass-NUEL_CS_GO.dem"
+    ],
+    "39": [
+      "auto0-20180319-204205-2073269119-de_inferno-NUEL_CS_GO.dem"
+    ],
+    "40": [
+      "auto0-20180319-210719-789953972-de_cache-NUEL_CS_GO.dem"
+    ],
+    "50": [
+      "auto0-20180319-192841-1417621418-de_nuke-NUEL_CS_GO.dem",
+      "auto0-20180319-203303-860060947-de_mirage-NUEL_CS_GO.dem"
+    ],
+    "51": [
+      "auto0-20180319-193455-1630265822-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-203150-928117967-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180319-203540-1609437905-de_cache-NUEL_CS_GO.dem"
+    ]
+  },
+  "7": {
+    "1": [
+      "auto0-20180326-182301-1741047222-de_mirage-NUEL_CS_GO.dem",
+      "auto0-20180326-193213-1016564997-de_train-NUEL_CS_GO.dem"
+    ]
+  }
+}
